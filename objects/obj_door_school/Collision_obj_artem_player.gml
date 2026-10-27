@@ -1,0 +1,1 @@
+room_goto(rm_school_hall);

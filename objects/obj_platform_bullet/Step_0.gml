@@ -1,0 +1,1 @@
+if (!instance_exists(obj_battle_gladkov)) { instance_destroy(); exit; }
